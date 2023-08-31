@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build-assets": "node-sass assets/scss/devresume.scss assets/css/devresume.min.css --output-style compressed"
+  },
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
